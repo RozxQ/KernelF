@@ -17983,4 +17983,4 @@ module_param(enable_11d, int,
              S_IRUSR | S_IRGRP | S_IROTH);
 
 module_param(country_code, charp,
-             S_IRUSR | S_IRGRP | S_IROTH);
+             S_IRUSR | S_IRGRP | S_IROTH)
